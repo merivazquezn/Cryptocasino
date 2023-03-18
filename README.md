@@ -1,5 +1,11 @@
 # Crypto Casino
 
+## Group Members
+- Luciano Trujillo
+- Tomás Szwarcberg
+- Franco Primerano
+- Maria Vazquez Navarro 
+
 ## The best descentralized casino game
 
 The app is a simple casino Dapp compatible with Ethereum blockchain
